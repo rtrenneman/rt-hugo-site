@@ -1,4 +1,4 @@
-baseurl                 = "https://rtrenneman.github.io"
+baseurl                 = "https://rtrenneman.github.io/"
 languageCode            = "en-us"
 title                   = "My Website"
 theme                   = "hugo-phlat-theme"
